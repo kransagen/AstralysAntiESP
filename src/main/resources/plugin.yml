@@ -1,0 +1,6 @@
+name: AntiFreeCam_AntiESP
+version: 1.0.0
+main: cz.kransagen.antifreecam.AntiFreeCamPlugin
+api-version: '1.21'
+author: kransagen
+description: Hides configured blocks and entities against ESP/freecam behavior.

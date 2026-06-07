@@ -1,0 +1,21 @@
+block-hide:
+  enabled: true
+  reveal-distance: 20
+  hidden-materials:
+    - DIAMOND_ORE
+    - DEEPSLATE_DIAMOND_ORE
+    - GOLD_ORE
+    - DEEPSLATE_GOLD_ORE
+    - ANCIENT_DEBRIS
+
+anti-esp:
+  enabled: true
+  radius: 50
+  fov-degrees: 110
+  include-players: true
+  include-mobs: true
+
+performance:
+  update-ticks: 10
+  block-scan-horizontal: 24
+  block-scan-vertical: 16

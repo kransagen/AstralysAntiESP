@@ -1,0 +1,6 @@
+cz/kransagen/antifreecam/AntiFreeCamPlugin.class
+cz/kransagen/antifreecam/EntityVisibilityService.class
+cz/kransagen/antifreecam/PlayerSessionListener.class
+cz/kransagen/antifreecam/ConfigManager.class
+cz/kransagen/antifreecam/BlockMaskService.class
+cz/kransagen/antifreecam/BlockPosition.class
